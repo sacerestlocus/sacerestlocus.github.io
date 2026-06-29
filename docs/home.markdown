@@ -9,12 +9,3 @@ layout: page
     <link href="https://fonts.googleapis.com/css2?     family=Cormorant:ital,wght@0,300..700;1,300..700&family=Signika+Negative:wght@300..700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles.css">
 </head>
-
-
-<div class="container">
-    <p class="demoTitle" style="text-align: center; font-family: "Cormorant", serif;"><span style="color: #008105; ">sacerestlocusextrameiite</span></p>
-    <p class="demoTitle">&nbsp;</p>
-    <p class="demoTitle" style="text-align: center;"><span style="color: #cc99ff;">work here</span></p>
-    <p class="demoTitle" style="text-align: center;">&nbsp;</p>
-    <p class="demoTitle" style="text-align: center;"><span style="color: #cc99ff;">and here</span></p>
-</div>
