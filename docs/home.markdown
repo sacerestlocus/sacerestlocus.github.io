@@ -11,9 +11,25 @@ layout: page
 
 
 <div class="container">
-    <p class="demoTitle" style="text-align: center;"><span style="color: #008000; font: Cormorant;">sacerestlocusextrameiite</span></p>
+    <p class="demoTitle" style="text-align: center;"><span style="color: #008000; font-family: Cormorant;">sacerestlocusextrameiite</span></p>
     <p class="demoTitle">&nbsp;</p>
     <p class="demoTitle" style="text-align: center;"><span style="color: #cc99ff;">work here</span></p>
     <p class="demoTitle" style="text-align: center;">&nbsp;</p>
     <p class="demoTitle" style="text-align: center;"><span style="color: #cc99ff;">and here</span></p>
 </div>
+
+
+.cormorant-<uniquifier> {
+  font-family: "Cormorant", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
+.signika-negative-<uniquifier> {
+  font-family: "Signika Negative", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
