@@ -12,7 +12,7 @@ layout: page
 
 
 <div class="container">
-    <p class="demoTitle" style="text-align: center;"><span style="color: #008105; font-family: "Cormorant", serif;">sacerestlocusextrameiite</span></p>
+    <p class="demoTitle" style="text-align: center; font-family: "Cormorant", serif;"><span style="color: #008105; ">sacerestlocusextrameiite</span></p>
     <p class="demoTitle">&nbsp;</p>
     <p class="demoTitle" style="text-align: center;"><span style="color: #cc99ff;">work here</span></p>
     <p class="demoTitle" style="text-align: center;">&nbsp;</p>
