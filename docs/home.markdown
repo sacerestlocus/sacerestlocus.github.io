@@ -19,8 +19,6 @@ layout: page
 </style>
 
 <div class="container">
-  <h1>404</h1>
-
     <p class="demoTitle" style="text-align: center;"><span style="color: #008000;">sacerestlocusextrameiite</span></p>
     <p class="demoTitle">&nbsp;</p>
     <p class="demoTitle" style="text-align: center;"><span style="color: #cc99ff;">work here</span></p>
