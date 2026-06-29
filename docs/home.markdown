@@ -3,9 +3,4 @@ permalink: /home
 title: home
 layout: page
 ---
-<head>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?     family=Cormorant:ital,wght@0,300..700;1,300..700&family=Signika+Negative:wght@300..700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="styles.css">
-</head>
+Work will live here, find about
