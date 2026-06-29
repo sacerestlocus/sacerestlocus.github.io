@@ -3,4 +3,4 @@ permalink: /home
 title: home
 layout: page
 ---
-Work will live here, find about
+<p>Work will live here, find about</p>
